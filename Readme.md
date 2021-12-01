@@ -60,7 +60,7 @@ Inline `code`
   * 公式为 R=Y,G=Y,B=Y
 
 
-###图片处理之后的结果图
+### 图片处理之后的结果图
 1. 首先导入的是RGB图
 
 ![RGB](./MD_pictures/img.png)
